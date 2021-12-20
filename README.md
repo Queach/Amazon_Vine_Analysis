@@ -14,7 +14,7 @@ The purpose of this analysis is to use various server & data technologies includ
 - 0% of paid vine reviews were 5 star as there were no paid reviews
 
 
-![results](https://raw.githubusercontent.com/Queach/election_analysis/main/Resources/Election%20Results.png "results")
+![results](https://raw.githubusercontent.com/Queach/Amazon_Vine_Analysis/main/515f00283282ad30ffd9d4371a998a22.png "results")
 
 ## Summary
 
